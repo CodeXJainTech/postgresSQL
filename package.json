@@ -1,0 +1,29 @@
+{
+  "name": "postgressql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeXJainTech/postgresSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/CodeXJainTech/postgresSQL/issues"
+  },
+  "homepage": "https://github.com/CodeXJainTech/postgresSQL#readme",
+  "dependencies": {
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "@types/pg": "^8.15.5",
+    "typescript": "^5.9.2"
+  }
+}
